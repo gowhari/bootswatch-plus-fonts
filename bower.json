@@ -1,0 +1,48 @@
+{
+  "name": "bootswatch-plus-fonts",
+  "version": "3.3.6-cosmo",
+  "homepage": "https://gitlab.com/gowhari/bootswatch-plus-fonts",
+  "authors": [
+    "İsmail Demirbilek <ce.demirbilek@gmail.com>",
+    "Iman Gowhari <gowhari@gmail.com>"
+  ],
+  "description": "Distribution packages for Bootswatch themes. Just the ones ready to use with Bower. Include google fonts to use offline if needed.",
+  "main": [
+    "js/bootstrap.js"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  },
+  "keywords": [
+    "bootstwatch",
+    "dist",
+    "package",
+    "amelia",
+    "cerulean",
+    "cosmo",
+    "cyborg",
+    "darkly",
+    "flatly",
+    "journal",
+    "lumen",
+    "paper",
+    "readable",
+    "simplex",
+    "slate",
+    "spacelab",
+    "superhero",
+    "united",
+    "yeti"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json",
+    "Gruntfile.js",
+    ".gitignore"
+  ]
+}
